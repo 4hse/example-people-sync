@@ -1,0 +1,8 @@
+code;first_name;last_name;street;locality;postal_code;region;sex;country;birth_date;birth_place;tax_code;note;is_employee
+1;John;Doe;123 Main St;Anytown;12345;CA;M;USA;1980-05-15;Anytown;ABC123456;Note for John Doe;1
+2;Jane;Smith;456 Oak St;Someville;67890;NY;F;USA;1985-08-21;Someville;DEF789012;Note for Jane Smith;1
+3;Robert;Johnson;789 Pine St;Another City;54321;TX;M;USA;1972-11-03;Another City;GHI345678;Note for Robert Johnson;1
+4;Emily;Davis;101 Elm St;Yourtown;98765;FL;F;USA;1992-04-18;Yourtown;JKL901234;Note for Emily Davis;1
+5;Michael;Miller;202 Cedar St;Cityville;13579;IL;M;USA;1988-07-27;Cityville;MNO567890;Note for Michael Miller;1
+6;Sophia;Brown;303 Maple St;Smalltown;24680;GA;F;USA;1995-02-09;Smalltown;PQR123456;Note for Sophia Brown;1
+7;Daniel;Wilson;404 Birch St;Newtown;86420;WA;M;USA;1983-09-12;Newtown;STU789012;Note for Daniel Wilson;1
