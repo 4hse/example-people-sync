@@ -4,7 +4,7 @@ A simple example that through the APIs provided by 4hse allows any HR software t
 
 Read the full tutorial here:
 
-https://www.4hse.com/manuals/people-sync-1
+https://www.4hse.com/news/hr-integration
 
 ## Install dependencies & compile
 
